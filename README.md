@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on cyber security 
-- 📫 How to reach me insta id : m.u.n._.e.e.b 
+- 📫 How to reach me insta id : m.un_ee.b 
 
 <!---
 muneeb-spec/muneeb-spec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
